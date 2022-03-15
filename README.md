@@ -8,12 +8,14 @@
 
 ## 폴더 구조
 
-- 01-workshop
-    * 2021-adme 
-- 02-undergraduate
-- 03-graduate
-    * 2022-fda-drug-review 
-
+- `01-workshop`
+    * `2021-basic-1`
+    * `2021-basic-2`
+    * `2021-in-vitro`
+- `02-undergraduate`
+- `03-graduate`
+    * `2022-01-clinpharm` 
+- `04-pipet`
 
 ## 접속 정보
 
