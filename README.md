@@ -33,4 +33,4 @@
 - 강좌 상세 내용 입력 후 저장 – 상단 [강좌관리] 클릭 / 강의 오른쪽 [강좌관리] 클릭
 - 제목 클릭 - [동영상 Player PC+모바일용] 등록 / PDF 파일은 참고파일#1 (파일주소)
 - [가장 중요한 동영상 Player PC+모바일용 링크 주소 표기 방법] 붉은색 글씨는 고정
-- http://pipet.daonidc.co.kr/pharmapk-new/pharmapk/업로드하는-파일명.mp4
+- http://pipet.daonidc.co.kr/폴더명/파일명.mp4
